@@ -48,34 +48,48 @@ Copy code
 ### Backend (Spring Boot)
 1. Clone the repo:
    https://github.com/PritamBiswas06/E-commerce-Sb.git
+   
 Navigate to backend folder:
 
 Copy code
+
 cd E-commerce-Sb/backend-spring-boot
+
 Configure application.properties with your MySQL credentials.
 
 Run the application:
 
 Copy code
+
 mvn spring-boot:run
+
 Frontend (Angular)
 Switch to frontend branch:
 
 Copy code
+
 git checkout frontend
 Navigate to frontend folder:
 
 Copy code
+
 cd frontend-angular
+
 Install dependencies:
 
 Copy code
+
 npm install
+
 Run the Angular app:
 
 Copy code
+
 ng serve -o
+
+
 🎯 Future Enhancements
+
 Payment gateway integration
 
 Wishlist feature
